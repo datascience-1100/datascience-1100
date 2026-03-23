@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-As a Data Science YouTuber, I am passionate about teaching others how to master Machine Learning, Deep Learning, Natural Language Processing, Computer Vision. My repositories include a wide range of projects, from simple examples to complex applications, all designed to help learners of all levels. I am constantly engaged with the community, sharing insights and responding to questions. If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories and YouTube channel.
+Finance Professional | Engineer by heart| Loves to do Machine Learning Projects Using Python, R.
+Reach me: rinam1@protonmail.com
 
 https://www.youtube.com/@DataScienceSphere
 
